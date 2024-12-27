@@ -27,6 +27,7 @@ nav a {
 }
 main {
     padding: 20px;
+    background-color: #e9f7ef;
 }
 p {
     font-size: large;
@@ -43,6 +44,7 @@ p {
 h2 {
     color: blue;
     margin: 10px 0px;
+    text-decoration: underline;
 }
 button{
     background-color: blue;
@@ -95,7 +97,4 @@ hr {
 .grouper2 {
     border: solid 1px #ddd;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); 
-}
-body {
-    background-color: #e9f7ef;
 }
