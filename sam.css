@@ -51,6 +51,9 @@ button{
     padding: 5px 10px;
     cursor: pointer;
 }
+.grouper2 {
+    background-color: 	#C0C0C0;
+}
   
     
 .grouper{
@@ -72,4 +75,24 @@ button:hover {
 }
 nav a:hover {
     color: yellow;
+}
+.produit2 {
+    border: 1px solid #ddd ;
+    padding: 10px;
+    margin: 10px 0;
+    width: 25%;
+    display: inline-block;
+    background-color: white;  
+}
+.produit2:hover {
+    transform: scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); 
+    background-color: #FFA07A;  
+}
+hr {
+    color: red;
+} 
+.grouper2 {
+    border: solid 1px #ddd;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); 
 }
