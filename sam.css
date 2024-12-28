@@ -36,7 +36,7 @@ p {
 .produit {
     border: 1px solid #ddd ;
     padding: 10px;
-    margin: 10px 0;
+    margin: 20px;
     width: 25%;
     display: inline-block;
     background-color: white;
@@ -81,7 +81,7 @@ nav a:hover {
 .produit2 {
     border: 1px solid #ddd ;
     padding: 10px;
-    margin: 10px 0;
+    margin: 20px;
     width: 25%;
     display: inline-block;
     background-color: white;  
@@ -97,4 +97,8 @@ hr {
 .grouper2 {
     border: solid 1px #ddd;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); 
+
+}
+h3:hover {
+   color: white;
 }
