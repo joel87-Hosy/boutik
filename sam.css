@@ -25,6 +25,9 @@ nav a {
     text-align: center;
     
 }
+header a {
+    text-align: right;
+}
 main {
     padding: 20px;
     background-color: #e9f7ef;
