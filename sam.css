@@ -5,9 +5,14 @@
 }
 
 header {
-    background-color: orangered;
+    background-image: url(image-bniere.jpg);
     padding: 20px;
     margin-bottom: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 200vh;
+    width: 200vh;
 }
 h1 {
 text-align: center;
